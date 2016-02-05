@@ -1,24 +1,4 @@
-Mis espectativas del curso es poder aprender sobre QA y ser un buen testeador.
-Quiero compartirles el siguiente fragmento de codigo para su visto bueno.
 
-@Test
-	public void theLengthOfAlineSegmentIsTheDistanceBetweenItsPoints()
-	{
-		Point start = new Point(0,0);
-		Point end = new Point(3,4);
-		// AGREGADO POR OLIVIA....
-		
-	//borrado
-	}	
-	otra linea
-	
-	Name: Bruno Luis Barrios Vargas	    Feb 5, 2016				Project:	 QADEV07		
- 	 											
-General Status:  	Green		Problems / Concerns:	
- 	 	 	 	 	 	 	 	 	 	 	 	 
-Tasks	 	 	 	 	 	 	 	Hours Spent
-today	Remaining
-hours	Estimated completion date	Status
 Attend Monitor Class:
 1.	Our classmates make their presentation.
 2.	We reviewd concepts of Validation and Verification.
