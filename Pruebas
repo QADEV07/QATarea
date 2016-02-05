@@ -7,10 +7,6 @@ Quiero compartirles el siguiente fragmento de codigo para su visto bueno.
 		Point start = new Point(0,0);
 		Point end = new Point(3,4);
 		
-		LineSegment line = new LineSegment(start,end);
-		
-		assertEquals(5,line.length(),0);
-		
-		LineSegment anotherLine = new LineSegment(new Point(),new Point(1,1));
-		assertTrue(anotherLine.length()>0 && anotherLine.length()<2);
+	//borrado
 	}	
+	otra linea
